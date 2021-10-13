@@ -1,0 +1,990 @@
+@media (max-width: 1600px){
+   .places__box-item{
+      width: 30%;
+   }
+   .places__box-stars {
+      width: 100%;
+      padding: 10px;
+   }
+   .places__box-stars-item{
+      width: 80%;
+   }
+   .places__box-stars-title{
+      margin-bottom: 10px;
+   }
+   .places__box-price {
+      font-size: 14px;
+      margin-right: 0px;
+   }
+   .places__box-reviews{
+      font-size: 14px;
+   }
+   .places__box-btn {
+      width: 40px;
+      height: 40px;
+   }
+   .customers__inner {
+      width: 100%;
+   }
+   .customers__avatar5{
+      right: 0;
+   }
+   .customers__avatar6{
+      right: 150px;
+   }
+   .customers__avatar7{
+      right: 20px;
+   }
+   .customers__avatar3 {
+      left: 150px;
+   }
+   .customers__slider{
+      width: 45%;
+   }
+   .customers__text {
+      font-size: 18px;
+      line-height: 27px;
+   }
+}
+@media (max-width: 1260px){
+   .banner__slider-text {
+      top: 180px;
+      left: 80px;
+   }
+   .banner__slider-title {
+      font-size: 78px;
+      line-height: 92px;
+   }
+   .discover{
+      padding: 20px;
+   }
+   .discover__btn{
+      padding: 0 10px;
+   }
+   .discover__price-input{
+      padding-bottom: 8px;
+      font-size: 16px;
+      line-height: 19px;
+   }
+   .discover__date-input{
+      padding-bottom: 8px;
+      font-size: 16px;
+      line-height: 19px;
+   }
+   .dropdown__select{
+      padding: 4px 5px 8px;
+   }
+   .dropdown__select-current{
+      font-size: 16px;
+      line-height: 19px;
+   }
+   .dropdown__list-box{
+      padding: 8px 5px 8px;
+   }
+   .dropdown__list-text{
+      font-size: 16px;
+      line-height: 19px;
+   }
+   .discover__title {
+      font-size: 14px;
+      line-height: 18px;
+   }
+   .slick-btn {
+      bottom: 0;
+      left: 0;
+      transform: translateY(100%);
+   }
+   .slick-next{
+      left: 67px;
+   }
+   .banner__range{
+      bottom: -40px;
+      width: 20%;
+   }
+   .discover__price{
+      margin-right: 0;
+      width: 22%;
+   }
+   .discover__date{
+      margin: 0;
+      width: 22%;
+   }
+   .select{
+      width: 22%;
+   }
+   .steps__inner {
+      width: 100%;
+   }
+   .steps__card {
+      flex-basis: 22%;
+      padding: 30px 20px 60px;
+      height: 374px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+   }
+   .destinations__content-title {
+      font-size: 38px;
+      line-height: 46px;
+   }
+   .destinations__content-text {
+      margin: 20px 0 30px;
+   }
+   .destinations__inner{
+      width: 100%;
+   }
+   .destinations__slider-item {
+      height: 350px;
+   }
+   .offers__inner-title {
+      font-size: 40px;
+      line-height: 54px;
+      margin-bottom: 50px;
+   }
+   .offers__inner-item-icon {
+      margin-right: 20px;
+   }
+   .offers__inner-item {
+      margin-bottom: 20px;
+   }
+   .offers__inner-info {
+      padding-bottom: 40px;
+   }
+   .offers__inner-left::after {
+      content: '';
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      background-color: #FFCA45;
+      border-radius: 12px;
+      top: 10px;
+      right: 60px;
+   }
+   .offers__inner-pattern {
+      position: absolute;
+      width: 110px;
+      height: 110px;
+      bottom: 30px;
+      left: 50px;
+   }
+   .places__box-item{
+      width: 30%;
+   }
+   .places__box-stars {
+      width: 100%;
+      padding: 10px;
+   }
+   .places__box-stars-item{
+      width: 80%;
+   }
+   .places__box-stars-title{
+      margin-bottom: 10px;
+   }
+   .places__box-price {
+      font-size: 14px;
+      margin-right: 0px;
+   }
+   .places__box-reviews{
+      font-size: 14px;
+   }
+   .places__box-btn {
+      width: 40px;
+      height: 40px;
+   }
+   .footer__inner {
+      width: 100%;
+   }
+}
+
+@media (max-width: 1040px){
+   .header__list-item{
+      padding: 0 20px;
+   }
+   .slick-btn{
+      width: 40px;
+      height: 40px;
+   }
+   .banner__range {
+      width: 18%;
+      left: 100px;
+   }
+   .slick-next {
+      left: 50px;
+   }
+   .discover {
+      width: 70%;
+   }
+   .steps img {
+      width: 40%;
+   }
+   .steps__card-title {
+      font-size: 18px;
+      line-height: 24px;
+      margin: 20px 0 20px;
+   }
+   .steps__card {
+      flex-basis: 24%;
+      padding: 20px 5px 20px;
+      height: 100%;
+   }
+   .steps__inner{
+      flex-wrap: wrap;
+   }
+   .steps__card-text{
+      font-size: 14px;
+      line-height: 18px;
+   }
+   .steps {
+      margin: 180px 0 100px;
+   }
+   .destinations__inner{
+      flex-direction: column;
+      width: 80%;
+      margin: 0 auto;
+   }
+   .destinations__slider{
+      order: -1;
+      width: 100%;
+   }
+   .destinations__content{
+      margin-top: 20px;
+      width: 100%;
+      text-align: center;
+   }
+   .destinations::after{
+      display: none;
+   }
+   .destinations__content-btn{
+      padding: 10px 20px;
+   }
+   .section {
+      margin-bottom: 140px;
+   }
+   .offers__inner{
+      flex-direction: column;
+   }
+   .offers__inner-right{
+      text-align: center;
+      width: 80%;
+      margin: 0 auto;
+      order: -1;
+   }
+   .offers__inner-info{
+      text-align: center;
+   }
+   .offers__inner-left{
+      width: 80%;
+      margin: 0 auto;
+   }
+   .offers__inner-left::after {
+      right: 90px;
+   }
+   .offers__inner-pattern {
+      left: 80px;
+   }
+   .places__all-btn{
+      width: 70%;
+      padding: 10px;
+      font-size: 14px;
+   }
+   .places__box-stars-title {
+      font-size: 18px;
+      line-height: 22px;
+   }
+   .places__stars-img {
+      width: 60px;
+   }
+   .places__box-price{
+      font-size: 12px;
+   }
+   .places__box-reviews{
+      font-size: 12px;
+   }
+   .places__title {
+      margin-bottom: 80px;
+      font-size: 38px;
+      line-height: 42px;
+   }
+   .customers__slider {
+      width: 50%;
+      padding: 60px 40px;
+   }
+   .customers__avatar1 {
+      left: 70px;
+   }
+   .customers__avatar2 {
+      left: 0;
+   }
+   .customers__avatar3 {
+      top: 35%;
+      left: 80px;
+   }
+   .customers__avatar4 {
+      left: 0px;
+      bottom: 70px;
+   }
+   .customers__avatar5{
+      top: 0;
+   }
+   .customers__avatar6 {
+      right: 80px;
+      top: 35%;
+   }
+   .download__inner{
+      padding: 100px 0;
+      display: flex;
+      align-items: center;
+   }
+   .download__content{
+      width: 80%;
+      padding: 20px 0;
+      margin: 0 auto;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: rgba(255, 254, 254, 0.8);
+      border-radius: 30px;
+   }
+   .section-2 {
+      margin-bottom: 170px;
+   }
+   .footer__content{
+      flex-wrap: wrap;
+   }
+   .footer__contacts{
+      width: 33%;
+   }
+   .footer__links{
+      width: 33%;
+      text-align: center;
+   }
+   .footer__sub{
+      margin: 0 auto;
+      text-align: center;
+   }
+   .footer__copy {
+      margin-top: 30px;
+   }
+   .section {
+      margin-bottom: 50px;
+   }
+}
+
+@media (max-width: 960px){
+   .banner__slider-text {
+      top: 100px;
+      left: 20px;
+   }
+   .banner__slider-btn {
+      padding: 16px 28px;
+      margin-top: 40px;
+   }
+   .banner__range{
+      display: none;
+   }
+   .discover {
+      width: 85%;
+   }
+   .banner__slider-title {
+      font-size: 66px;
+   }
+   .steps img {
+      height: 0%;
+      width: 30%;
+   }
+   .steps__card-title {
+      margin: 10px 0 10px;
+   }
+   .destinations__slider-item{
+      height: 300px;
+   }
+   .section {
+      margin-bottom: 80px;
+   }
+   .offers__inner{
+      width: 100%;
+   }
+}
+
+@media (max-width: 860px){
+   .section {
+      margin-bottom: 150px;
+   }
+   .header__burger{
+      position: absolute;
+      right: -200%;
+      top: 0px;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      width: 30%;
+      height: 100vh;
+      padding-top: 100px;
+      box-shadow:-8px 0px 4px 0px rgba(0,0,0,0.28);
+      -webkit-box-shadow:-8px 0px 4px 0px rgba(0,0,0,0.28);
+      -moz-box-shadow:-8px 0px 4px 0px rgba(0,0,0,0.28);
+      transition: all .5s;
+      z-index: 10;
+   }
+   .header__account{
+      order: -1;
+      margin-bottom: 20px;
+   }
+   .header__list{
+      display: block;
+      text-align: center;
+   }
+   .header__list-item{
+      padding: 0;
+      margin-bottom: 20px;
+   }
+   .header__menu{
+      display: block;
+   }
+   .burger__show{
+      right: 0;
+   }
+   .steps {
+      margin: 0px 0 80px;
+   }
+   .steps__inner {
+      width: 70%;
+   }
+   .steps__card{
+      flex-basis: 40%;
+      margin-bottom: 20px;
+   }
+   .destinations__slider-item{
+      width: 90%;
+      height: 250px;
+      margin: 0 14px;
+   }
+   .destinations__inner{
+      padding: 0;
+   }
+   .destinations__slider-card{
+      width: 100%;
+   }
+   .places__inner {
+      width: 100%;
+   }
+   .customers__avatar {
+      display: none;
+   }
+   .customers__slider {
+      width: 80%;
+   }
+}
+
+@media (max-width: 760px){
+   .header__burger{
+      width: 40%;
+   }
+   .banner__slider-text{
+      width: 80%;
+   }
+   .banner__slider-title {
+      font-size: 48px;
+      line-height: 54px;
+   }
+   .banner__slider-btn {
+      padding: 12px 18px;
+      margin-top: 30px;
+   }
+   .slick-btn{
+      display: none;
+   }
+   .discover{
+      width: 100%;
+   }
+   .steps__card{
+      flex-basis: 45%;
+   }
+   .destinations__inner{
+      width: 90%;
+   }
+   .offers__inner-title {
+      margin-bottom: 30px;
+   }
+   .offers__inner-info {
+      padding-bottom: 20px;
+   }
+   .offers__inner-left::after {
+      right: 70px;
+   }
+   .offers__inner-pattern {
+      left: 60px;
+   }
+   .offers__inner-left {
+      width: 100%;
+   }
+   .offers__inner-right {
+      width: 100%;
+   }
+   .places__box-item {
+      width: 32%;
+   }
+   .places__box-stars{
+      flex-direction: column;
+   }
+   .places__box-stars-item{
+      width: 100%;
+      text-align: center;
+   }
+   .download__content {
+      width: 90%;
+   }
+   .download__title {
+      margin-bottom: 40px;
+      font-size: 38px;
+      line-height: 42px;
+   }
+   .download__icons{
+      width: 50%;
+   }
+   .section-2 {
+      margin-bottom: 150px;
+   }
+   .footer__contacts{
+      width: 100%;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+   .footer__copy-text{
+      font-size: 16px;
+   }
+   .footer__links {
+      width: 30%;
+   }
+   .footer__sub{
+      width: 33%;
+      margin: 0;
+   }
+}
+
+@media (max-width: 660px){
+   .discover{
+      flex-wrap: wrap;
+      padding: 10px;
+      position: static;
+      transform: translateY(0%);
+   }
+   .discover__price{
+      width: 30%;
+   }
+   .discover__date{
+      width: 30%;
+   }
+   .select{
+      width: 30%;
+   }
+   .discover__btn{
+      margin-top: 20px;
+      font-size: 16px;
+      line-height: 18px;
+      height: 40px;
+   }
+   .banner__slider-text{
+      width: 90%;
+   }
+   .banner__slider-btn{
+      padding: 6px 10px;
+      margin-top: 20px;
+      font-size: 14px;
+   }
+   .section {
+      margin-bottom: 120px;
+   }
+   .steps__inner {
+      width: 90%;
+   }
+   .destinations__slider-item{
+      width: 90%;
+      height: 240px;
+      margin: 0 14px;
+   }
+   .offers__inner-item{
+      flex-direction: column;
+      align-items: center;
+   }
+   .offers__inner-item-icon {
+      margin-right: 0px;
+   }
+   .places__box{
+      flex-wrap: wrap;
+   }
+   .places__box-icon{
+      display: none;
+   }
+   .places__all-btn{
+      position: static;
+      transform: translate(0);
+      margin-top: 80px;
+   }
+   .section-2 {
+      margin-bottom: 120px;
+   }
+   .customers__title{
+      font-size: 38px;
+      line-height: 42px;
+      margin-bottom: 80px;
+   }
+   .footer__links{
+      width: 48%;
+   }
+   .footer__sub{
+      width: 50%;
+      margin: 0 auto;
+   }
+   .footer__btn{
+      width: 60%;
+      height: 50px;
+      padding: 0;
+      padding: 10px 0;
+   }
+}
+
+@media (max-width: 600px){
+   .header__burger{
+      width: 50%;
+   }
+   .banner__slider-text{
+      top: 50px;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+      text-align: center;
+   }
+   .steps__inner {
+      width: 100%;
+   }
+   .steps__card {
+      flex-basis: 48%;
+   }
+   .places__box-item{
+      width: 48%;
+      margin-bottom: 80px;
+   }
+   .d-block2{
+      display: none;
+   }
+   .d-none2{
+      display: block;
+      margin-top: -5px;
+   }
+   .section-2 {
+      margin-bottom: 120px;
+   }
+   .places__all-btn {
+      width: 60%;
+   }
+}
+@media (max-width: 560px){
+   .section{
+      margin-bottom: 100px;
+   }
+   .banner__slider-title{
+      font-size: 38px;
+      line-height: 44px;
+   }
+   .discover__price{
+      width: 45%;
+   }
+   .discover__date{
+      width: 45%;
+   }
+   .select{
+      width: 45%;
+   }
+   .destinations__inner{
+      width: 100%;
+   }
+   .destinations__content-title{
+      font-size: 34px;
+      line-height: 38px;
+   }
+   .destinations__content-btn{
+      font-size: 14px;
+   }
+   .destinations__content-text{
+      font-size: 16px;
+      line-height: 19px;
+   }
+   .offers__inner-info-text {
+      margin-top: 10px;
+      font-size: 14px;
+      line-height: 18px;
+   }
+   .offers__inner-left::after {
+      right: 40px;
+   }
+   .offers__inner-pattern {
+      width: 100px;
+      height: 100px;
+      left: 45px;
+   }
+   .offers__inner-left::before {
+      width: 40px;
+      height: 40px;
+   }
+   .customers__slider {
+      width: 100%;
+   }
+   .download__content {
+      width: 100%;
+      border-radius: 0;
+   }
+   .footer__sub{
+      width: 70%;
+   }
+}
+@media (max-width: 440px){
+   .header__burger{
+      width: 100%;
+      box-shadow: none;
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+   }
+   .banner__slider-title{
+      font-size: 32px;
+      line-height: 38px;
+   }
+   .discover{
+      flex-direction: column;
+      align-items: center;
+   }
+   .discover__price{
+      width: 80%;
+   }
+   .discover__date{
+      width: 80%;
+   }
+   .select{
+      width: 80%;
+   }
+   .banner__slider-text{
+      top: 10%;
+   }
+   .section {
+      margin-bottom: 80px;
+   }
+   .steps__inner{
+      justify-content: center;
+   }
+   .steps__card {
+      flex-basis: 80%;
+   }
+   .destinations__slider-item{
+      width: 100%;
+      height: 240px;
+      margin: 0 10px;
+   }
+   .destinations__slider-card{
+      width: 96%;
+   }
+   .destinations__content-title{
+      font-size: 28px;
+      line-height: 32px;
+   }
+   .offers__inner-title {
+      font-size: 28px;
+      line-height: 36px;
+   }
+   .offers__inner-info-title {
+      font-size: 20px;
+      line-height: 28px;
+   }
+   .offers__inner-left::after {
+      top: 30px;
+      right: 50px;
+      width: 50px;
+      height: 50px;
+   }
+   .offers__inner-pattern {
+      width: 50px;
+      height: 50px;
+      left: 50px;
+      bottom: 55px;
+   }
+   .offers__inner-left::before {
+      width: 34px;
+      height: 34px;
+      border: 4px solid #FF715B;
+   }
+   .places__box-item{
+      width: 80%;
+      margin: 0 auto;
+      margin-bottom: 80px;
+   }
+   .places__title {
+      margin-bottom: 50px;
+      font-size: 32px;
+      line-height: 38px;
+   }
+   .customers__title {
+      font-size: 28px;
+      line-height: 32px;
+      margin-bottom: 50px;
+   }
+   .customers__slider {
+      padding: 20px 20px;
+   }
+   .customers__about{
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 20px;
+   }
+   .customers__about-text{
+      width: 100%;
+      text-align: center;
+   }
+   .customers__text {
+      margin-bottom: 30px;
+   }
+   .download__title {
+      margin-bottom: 25px;
+      font-size: 28px;
+      line-height: 32px;
+   }
+   .download__icons {
+      width: 60%;
+   }
+   .footer__contacts-text{
+      font-size: 14px;
+      margin: 10px 0 15px;
+   }
+   .footer__contacts-link{
+      font-size: 14px;
+   }
+   .footer__adress-icon{
+      font-size: 14px;
+   }
+   .footer__adress-icon2{
+      font-size: 16px;
+   }
+   .footer__links-title {
+      padding-top: 15px;
+      font-size: 22px;
+      margin-bottom: 20px;
+   }
+   .footer__links-list-item{
+      font-size: 14px;
+      margin-bottom: 10px;
+   }
+   .footer__sub{
+      width: 80%;
+   }
+   .footer__btn{
+      width: 50%;
+      height: 40px;
+      font-size: 16px;
+      padding: 0;
+   }
+   .footer__copy-text {
+      font-size: 14px;
+   }
+}
+@media (max-width: 360px){
+   .banner__slider-title{
+      font-size: 22px;
+      line-height: 28px;
+   }
+   .banner__slider-btn{
+      font-size: 10px;
+      margin-top: 5px;
+      padding: 4px 6px;
+   }
+   .discover__price{
+      width: 95%;
+   }
+   .discover__date{
+      width: 95%;
+   }
+   .select{
+      width: 95%;
+   }
+   .discover__btn{
+      font-size: 12px;
+   }
+   .steps{
+      margin-bottom: 50px;
+   }
+   .steps__card {
+      flex-basis: 100%;
+   }
+   .offers__inner-left::after {
+      top: 30px;
+      right: 30px;
+      width: 50px;
+      height: 50px;
+   }
+   .offers__inner-pattern {
+      width: 50px;
+      height: 50px;
+      left: 30px;
+      bottom: 55px;
+   }
+   .places__box-item{
+      width: 90%;
+   }
+   .customers__text {
+      font-size: 16px;
+      line-height: 21px;
+   }
+   .customers__about-name {
+      margin-bottom: 0;
+      font-size: 18px;
+      line-height: 21px;
+   }
+   .customers__about-special{
+      font-size: 16px;
+   }
+   .slick-dots button {
+      width: 8px;
+      height: 8px;
+   }
+   .slick-active button {
+      width: 16px;
+      height: 16px;
+   }
+   .slick-active button::after {
+      width: 8px;
+      height: 8px;
+   }
+   .download__content{
+      padding: 20px 10px;
+   }
+   .download__title {
+      margin-bottom: 25px;
+      font-size: 24px;
+      line-height: 27px;
+   }
+   .download__icons {
+      width: 80%;
+   }
+   .footer__links{
+      width: 100%;
+   }
+   .footer__btn{
+      width: 40%;
+      height: 50px;
+      font-size: 14px;
+      line-height: 16px;
+   }
+}
+@media (max-width: 300px){
+   .customers__slider {
+      padding: 20px 0px;
+   }
+   .footer__sub{
+      width: 100%;
+   }
+   .footer__btn{
+      width: 40%;
+      height: 50px;
+      font-size: 14px;
+   }
+}

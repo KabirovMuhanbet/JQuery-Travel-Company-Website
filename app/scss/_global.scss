@@ -1,0 +1,59 @@
+html,
+body {
+	font-family: 'Noto Serif', serif;
+   font-size: 18px;
+   line-height: 26px;
+   color: $black;
+   background-color: #fff;
+   overflow-x: hidden;
+}
+
+p {
+   font-family: 'Open Sans', sans-serif;
+   color: $text;
+}
+a {
+   font-weight: 400;
+   transition: all .5s;
+}
+a:hover{
+   color: $accent;
+}
+.container {
+   max-width: 1710px;
+   padding: 0 15px;
+   margin: 0 auto;
+}
+
+header a{
+   color: $black;
+}
+
+.d-none{
+   display: none;
+}
+.section{
+   margin-bottom: 180px;
+}
+.section-2{
+   margin-bottom: 200px;
+}
+.d-none{
+   display: none;
+}
+.d-block{
+   display: block;
+}
+.d-none2{
+   display: none;
+}
+.d-block2{
+   display: block;
+}
+
+
+
+
+
+
+
